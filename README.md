@@ -1,2 +1,1 @@
-
-<h2 align="center">Get Specific Elements from URL 👋</h2>
+<h2>Get Specific Elements from URL 👋</h2>
